@@ -1,0 +1,7 @@
+print("The city sleeps, a hushed and darkened dream,")
+print("Beneath the moon's soft, silver-faded gleam.")
+print("A gentle breeze whispers through the trees,")
+print("Rustling leaves in a quiet, soft breeze.")
+print("The world is still, a peaceful lullaby,")
+print("As stars in the velvet darkness lie. ")
+print("Jacob Sexton")
